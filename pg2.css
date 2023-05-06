@@ -1,0 +1,39 @@
+.customize{
+    font-size: 26px;
+    padding-top: 10px;
+    color: goldenrod;
+}
+
+.carousel-indicators li {
+        width: 10px;
+        height: 10px;
+        border-radius: 100%;
+      }
+.img1{
+    height: 30px;
+    width: 100px;
+}
+
+    @media screen and (max-width:480px){
+        .customize1{
+
+            height: 300px;
+            
+
+        }
+        .img2{
+            height: 300px;
+            
+        }
+        .img3{
+            height: 300px;
+        }
+        .img4{
+            height: 300px;
+        }
+        .img5{
+            height: 300px;
+        }
+        
+        
+    }
